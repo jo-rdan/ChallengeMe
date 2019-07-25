@@ -21,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/jo-rdan/ChallengeMe/issues"
   },
-  "homepage": "https://github.com/jo-rdan/ChallengeMe#readme"
+  "homepage": "https://github.com/jo-rdan/ChallengeMe#readme",
+  "dependencies": {}
 }
