@@ -1,0 +1,25 @@
+{
+  "name": "challengeme",
+  "version": "1.0.0",
+  "description": "A random project I picked to challenge my knowledge about Node JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jo-rdan/ChallengeMe.git"
+  },
+  "keywords": [
+    "car",
+    "rent",
+    "buy",
+    "free"
+  ],
+  "author": "Jordan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jo-rdan/ChallengeMe/issues"
+  },
+  "homepage": "https://github.com/jo-rdan/ChallengeMe#readme"
+}
